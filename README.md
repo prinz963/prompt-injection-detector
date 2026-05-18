@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 # 🛡️ Prompt Injection Detector
 
+🌐 **Live Demo:** https://prompt-injection-detector.onrender.com
+
 A layered AI security tool that detects prompt injection attacks using three detection methods — rule-based, machine learning, and transformer models — wrapped in a REST API with a browser UI.
 
 > Built as a real-world cybersecurity project to demonstrate AI security concepts.
