@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ Prompt Injection Detector
 
 A layered AI security tool that detects prompt injection attacks using three detection methods — rule-based, machine learning, and transformer models — wrapped in a REST API with a browser UI.
@@ -201,3 +202,6 @@ prompt-injection-detector/
 ## 📄 License
 
 MIT License — free to use and modify.
+=======
+# prompt-injection-detector
+>>>>>>> 74961d2737857f8cb9bb8639ffef01dd29fb1494
