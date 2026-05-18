@@ -144,4 +144,6 @@ def health():
 if __name__ == "__main__":
     print("🛡️  Prompt Injection Detector API starting...")
     print("   Open http://127.0.0.1:5000 in your browser")
-    app.run(debug=True)
+    import os
+port = int(os.environ.get("PORT", 5000))
+app.run(host="0.0.0.0", port=port)
